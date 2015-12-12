@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /usr/bin/hhvm --mode server --user www-data --config /etc/hhvm/server.ini
